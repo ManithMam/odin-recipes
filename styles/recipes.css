@@ -32,3 +32,8 @@ body{
     font-size: 30px;
     color: white;
 }
+
+.img{
+    height: auto;
+    width: 400px;
+}
